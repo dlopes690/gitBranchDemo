@@ -2,3 +2,5 @@ Version 1.0
 Main text file
 
 Making changes to the r2_contacts branch!!!
+
+Added another change to contacts. Ready for 2.0
