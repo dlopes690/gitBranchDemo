@@ -1,2 +1,4 @@
 Version 1.0
 Main text file
+
+Just fixed the main master bug. Good going!
